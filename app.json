@@ -1,0 +1,6 @@
+{
+  "name": "Cytube",
+  "description": "A barebones Node.js app using Express",
+  "repository": "https://github.com/BurtBurts/sync",
+   "keywords": ["node", "express", "static"]
+}
